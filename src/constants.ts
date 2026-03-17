@@ -20,15 +20,5 @@ export const ACTIVITIES: Activity[] = [
     ageRange: "All ages",
     image: "https://www.nordicmountain.com/sites/default/files/styles/scale_1440/public/2026-02/DSC00990.JPG?itok=FVV33vK6",
     icon: "Wind"
-  },
-  {
-    id: 'sleigh-ride',
-    title: "Alpine Sleigh Ride",
-    description: "A magical journey through snow-covered forests in a horse-drawn sleigh. Includes hot cocoa and cozy blankets.",
-    price: 85,
-    duration: "1.5 Hours",
-    ageRange: "All ages",
-    image: "https://coloradosleighrides.com/site/wp-content/uploads/2014/08/Ruby-on-Sleigh.jpg",
-    icon: "Mountain"
   }
 ];
