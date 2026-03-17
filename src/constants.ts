@@ -3,11 +3,11 @@ import { Activity } from './types';
 export const ACTIVITIES: Activity[] = [
   {
     id: 'ski-school',
-    title: "Kids' Ski School",
-    description: "Expert-led group lessons designed specifically for little ones. We focus on fun, safety, and building confidence on the slopes.",
+    title: "Ski School",
+    description: "Expert-led group lessons designed with little ones in mind.",
     price: 120,
     duration: "4 Hours",
-    ageRange: "4-12 years",
+    ageRange: "4+ years",
     image: "https://scene7.vailresorts.com/is/image/vailresorts/20230207_PC_Maguire_006:Featured-Content-AND-Sliding-Cards-AND-Container-Long-Amount?resMode=sharp2&wid=382&fit=constrain,1&dpr=on,2.625",
     icon: "Snowflake"
   },
