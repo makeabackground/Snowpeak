@@ -6,7 +6,7 @@ export const ACTIVITIES: Activity[] = [
     title: "Ski School",
     description: "Expert-led group lessons designed with little ones in mind.",
     price: 120,
-    duration: "4 Hours",
+    duration: "2 Hours",
     ageRange: "4+ years",
     image: "https://scene7.vailresorts.com/is/image/vailresorts/20230207_PC_Maguire_006:Featured-Content-AND-Sliding-Cards-AND-Container-Long-Amount?resMode=sharp2&wid=382&fit=constrain,1&dpr=on,2.625",
     icon: "Snowflake"
