@@ -4,7 +4,7 @@ export const ACTIVITIES: Activity[] = [
   {
     id: 'ski-school',
     title: "Ski School",
-    description: "Expert-led group lessons designed with little ones in mind.",
+    description: "Expert-led group lessons designed with skiers in mind.",
     price: 120,
     duration: "2 Hours",
     ageRange: "4+ years",
@@ -14,7 +14,7 @@ export const ACTIVITIES: Activity[] = [
   {
     id: 'snow-tubing',
     title: "Snow Tubing Adventure",
-    description: "Experience the thrill of sliding down our groomed tubing lanes. A high-energy activity that's pure joy for kids and parents alike.",
+    description: "Experience the thrill of sliding down our groomed tubing lanes. A high-energy activity that's pure joy.",
     price: 45,
     duration: "2 Hours",
     ageRange: "All ages",
